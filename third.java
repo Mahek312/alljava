@@ -14,7 +14,7 @@ public class third {
             System.out.println("Car Year: " + year);
         }
          public static void main(String[] args) {
-            third myCar = new third("BMW", 2020);
+            third myCar = new third("maruti", 2020);
             myCar.displayCarDetails();
         
     }
