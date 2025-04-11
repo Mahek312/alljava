@@ -1,7 +1,7 @@
 package java1;
 
 class animalsuper{
-    String color = "white"; 
+    String color = "purple"; 
 }
 class dog extends animalsuper{
     String color = "Black";
